@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 ### 💤Github Stack:
 
-<img align="right" height="150" src="https://tenor.com/view/ryo-ryo-yamada-yamada-bocchi-bocchi-the-rock-gif-6990589449017249522"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/YQOQEO9ETvIAAAAd/ryo-ryo-yamada.gif"  />
 
 ###
 
