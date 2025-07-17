@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 ### 💤Github Stack:
 
-<img align="right" height="150" src="https://media.tenor.com/3X2mrP5sjv8AAAAi/bocchi-the-rock-bocchi.gif"  />
+<img align="right" height="150" src="https://tenor.com/view/ryo-ryo-yamada-yamada-bocchi-bocchi-the-rock-gif-6990589449017249522"  />
 
 ###
 
@@ -94,8 +94,8 @@ Here are some ideas to get you started:
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hmdnaf/hmdnaf/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hmdnaf/hmdnaf/output/snake.svg" alt="Snake animation" /> -->
 
 ###
