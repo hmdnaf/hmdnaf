@@ -73,15 +73,19 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="30" alt="datagrip logo"  />
 </div>
 
-### 💤Github Stack:
+### 💤Github Stats:
 
 <img align="right" height="150" src="https://media1.tenor.com/m/YQOQEO9ETvIAAAAd/ryo-ryo-yamada.gif"  />
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hmdnaf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2](https://github-readme-stats.vercel.app/api/top-langs?username=hmdnaf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)" height="150" alt="languages graph"  />
-</div>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hmdnaf&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=hmdnaf&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 
